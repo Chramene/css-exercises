@@ -1,0 +1,7 @@
+.odd {background-color: rgb(221, 174, 198);
+    font-family: "Verdana, DejaVu Sans", sans-serif;
+
+}
+.odd.new {font-size: 24px;}
+#NumeroDos {color: blue; font-size: 36px;}
+#NumeroQuatro {background-color: lightgreen; font-size: 24px; font-weight: bold;}
